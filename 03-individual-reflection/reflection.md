@@ -52,13 +52,11 @@ Tôi đưa ra ba vấn đề từ trải nghiệm lead nhóm làm việc qua Mes
 
 ## 4. Tự kiểm cuối bài
 
-- [x] [12đ] Cá nhân có 10 problems và top 3 Problem Cards.
-- [x] [12đ] Tôi đã pitch và tham gia so sánh các candidates.
-- [x] Nhóm có cluster, shortlist, bảng điểm và một candidate được chọn.
-- [ ] Nhóm chưa hoàn thành validation/research bằng phỏng vấn, khảo sát và nguồn kiểm tra được.
-- [x] [15đ] Nhóm có workflow trước/sau, bottleneck, human boundary và fallback.
-- [x] [20đ] Nhóm có Problem Statement v0/v1 với metric và boundary.
-- [x] [15đ] Nhóm đã so sánh Rule / Workflow / Agent và chọn Workflow.
-- [x] [10đ] Nhóm đã chọn Not Yet và nêu rõ việc cần kiểm chứng trước pilot.
-- [x] Reflection có vai trò của tôi, cách dùng AI, điểm AI làm chưa tốt và điều tôi sẽ đổi.
-- [x] Tôi hiểu mạch problem → workflow → metric → boundary → chọn cách giải quyết.
+- [x] [12đ] Cá nhân có 5+ problems + top 3 Problem Cards
+- [x] [12đ] Tôi đã pitch rõ + challenge nhóm đúng trọng tâm (ghi ở bảng mục 1)
+- [x] Nhóm có nhật ký hội tụ từ candidates về 1 bài
+- [x] [20đ] Nhóm có PS v0/v1 với metric + boundary rõ
+- [x] [15đ] Nhóm có so sánh No AI / Rule / Workflow / Agent
+- [x] [10đ] Nhóm có Go / Not Yet / No-Go + lý do rõ
+- [x] [10đ] Reflection này có vai trò thật + AI giúp/sai ở đâu + điều học được + nếu làm lại đổi gì
+- [x] [6đ] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp AI
